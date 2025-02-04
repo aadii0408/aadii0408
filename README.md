@@ -5,16 +5,14 @@
 ![Banner](https://media.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)  
 
 
-Welcome to my GitHub! I'm Aaditya, a passionate Machine Learning enthusiast, AI explorer, and an engineer at heart. I believe in building intelligent systems that simplify life and create new possibilities. If you love tech, AI, and creative problem-solving, we already have something in common!
+Welcome to my GitHub! I'm Aaditya, a Startup Enthusiast, and AI Explorer. I believe in building intelligent systems that simplify life and create new possibilities. We already have something in common if you love tech, AI, and creative problem-solving!
 
 ---
 
-## 🔍 What I Do 🌟
+## 🔍 What I Love 🌟
 
 🔬 **Machine Learning & AI** - Developing intelligent models for automation, predictive analytics, and decision-making.  
-💻 **Software Development** - Writing clean, efficient, and scalable code for various applications.  
 📈 **Data Science & Analytics** - Extracting insights from data using statistical techniques and visualization tools.  
-🌐 **Full-Stack Development** - Building web applications with modern frameworks and cloud services.  
 🌟 **Hackathon Enthusiast** - Innovating solutions and collaborating with like-minded individuals.  
 🤖 **AI Agents & Automation** - Creating AI-powered bots for assistance and workflow optimization.  
 
@@ -74,10 +72,7 @@ Welcome to my GitHub! I'm Aaditya, a passionate Machine Learning enthusiast, AI 
 ## 💬 Let's Connect!
 
 I love connecting with fellow tech enthusiasts, AI innovators, and open-source contributors! Let's collaborate and build something amazing together.
-
-📧 **Email:** achampan1@stevens.edu  
 👨‍🎓 **LinkedIn:** [Aaditya Champaneri](https://www.linkedin.com/in/aaditya-champaneri)  
-🌐 **Portfolio & Blogs:** [Linktree](https://linktr.ee/aadii0408)
 
 ---
 
