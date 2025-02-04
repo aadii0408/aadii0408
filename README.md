@@ -59,6 +59,24 @@ Welcome to my GitHub! I'm Aaditya, a Startup Enthusiast, and AI Explorer. I beli
 </table>
 
 ---
+## 📊 GitHub Stats  
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=aadii0408&show_icons=true&theme=radical" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadii0408&layout=compact&theme=radical" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadii0408&theme=radical" />
+  </td>
+</tr>
+</table>
+
+---
 
 ## 🌟 Recognitions & Achievements
 
