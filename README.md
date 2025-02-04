@@ -2,6 +2,9 @@
 
 > **"Artist by Choice, Engineer by Default"**
 
+![Banner](https://media.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)  
+
+
 Welcome to my GitHub! I'm Aaditya, a passionate Machine Learning enthusiast, AI explorer, and an engineer at heart. I believe in building intelligent systems that simplify life and create new possibilities. If you love tech, AI, and creative problem-solving, we already have something in common!
 
 ---
